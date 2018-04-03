@@ -1,0 +1,27 @@
+header{
+	background-color: black;
+	color: white;
+}
+
+header h3{
+	padding-left: 35%;
+	padding-top: 20px;
+	font-size: 150%;
+}
+header p{
+	padding-left: 40%;
+	padding-top: 60px;
+	font-weight: normal;
+
+}
+
+#aboutMe{
+	float: left;
+	color: #A5FFEE;
+	background-color: rgb(25, 25, 25);
+}
+
+#aboutMe p{
+	color: white;
+}
+
