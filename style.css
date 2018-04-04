@@ -15,14 +15,11 @@ header p{
 
 }
 
-img{
-	padding-left: 100%;
-}
-
 #aboutMe{
 	float: left;
 	color: #A5FFEE;
-	background-color: rgb(25, 25, 25);}
+	background-color: rgb(25, 25, 25);
+}
 
 #aboutMe p{
 	color: white;
@@ -41,6 +38,10 @@ img{
 	top: 138px;
 	text-align: left;
 	line-height: 1.111em;
+}
+
+img{
+	padding-left: 100%;
 }
 
 
