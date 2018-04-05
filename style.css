@@ -46,8 +46,9 @@ header p{
 }
 
 #aboutMe img{
-	padding-left: 50%;
-	width: 1519px;
+	position: relative;
+	left: 819px;
+	width: 700px;
 	height: 750px;
 }
 
