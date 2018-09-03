@@ -60,5 +60,20 @@ header p{
 	color: #A5FFEE;
 }
 
+#headingOne{
+	background-color: lightblue;
+}
+
+#headingTwo{
+	background-color: lightgrey;
+}
+
+#headingThree{
+	background-color: purple;
+}
+
+#collapseOne{
+	background-color: orange;
+}
 
 
