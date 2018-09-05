@@ -76,4 +76,11 @@ header p{
 	background-color: orange;
 }
 
+#collapseTwo{
+	background-color: lightpink;
+}
 
+#collapseThree{
+	background-color: black;
+	color: white;
+}
