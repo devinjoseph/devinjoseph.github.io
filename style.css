@@ -93,4 +93,15 @@ header p{
 	color: #A5FFEE;
 }
 
+#videoOne{
+	position: relative;
+	left: 900px;
+	bottom: 93px;
+}
+
+#collapseOne p{
+	position: relative;
+	left: 900px;
+	bottom: 100px;
+}
 
