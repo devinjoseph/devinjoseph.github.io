@@ -74,6 +74,7 @@ header p{
 
 #collapseOne{
 	background-color: orange;
+	margin-bottom: -100px;
 }
 
 #collapseTwo{
@@ -93,7 +94,7 @@ header p{
 	color: #A5FFEE;
 }
 
-/*#collapseOne iframe{
+#collapseOne iframe{
 	position: relative;
 	left: 900px;
 	bottom: 85px;
@@ -102,6 +103,6 @@ header p{
 #collapseOne p{
 	position: relative;
 	left: 900px;
-	bottom: 95px;
-}*/
+	bottom: 85px;
+}
 
