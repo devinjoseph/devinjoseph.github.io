@@ -74,7 +74,6 @@ header p{
 
 #collapseOne{
 	background-color: orange;
-	margin-bottom: -100px;
 }
 
 #collapseTwo{
@@ -95,15 +94,50 @@ header p{
 }
 
 #collapseOne iframe{
+	float: left;
 	position: relative;
 	left: 900px;
 	bottom: 85px;
 	border: 0;
+	margin-bottom: -60px;
 }
 
 #collapseOne p{
+	float: left;
+	position: relative;
+	left: 400px;
+	top: 150px;
+}
+
+#collapseTwo iframe{
+	float: left;
 	position: relative;
 	left: 900px;
 	bottom: 85px;
+	border: 0;
+	margin-bottom: -60px;
+
 }
 
+#collapseTwo p{
+	float: left;
+	position: relative;
+	left: 400px;
+	top: 150px;
+}
+
+#collapseThree iframe{
+	float: left;
+	position: relative;
+	left: 900px;
+	bottom: 90px;
+	border: 0;
+	margin-bottom: -50px;	
+}
+
+#collapseThree p{
+	float: left;
+	position: relative;
+	left: 400px;
+	top: 150px;
+}
