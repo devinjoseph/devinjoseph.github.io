@@ -26,19 +26,18 @@ header p{
 
 #aboutMe p{
 	color: white;
-	left: 190px;
-	width: 460px;
-	position: absolute;
-	top: 444px;
-	text-align: left;
-	line-height: 1.55em;
+    left: 12%;
+    width: 26%;
+    position: absolute;
+    top: 60%;
+    text-align: left;
+    line-height: 1.55em;
 }
 
 #aboutMe h1{
-	left: 190px;
-	width: 460px;
+	left: 12%;
 	position: absolute;
-	top: 188px;
+	top: 25%;
 	text-align: left;
 	font: normal normal normal 72px/1.111em Open Sans,sans-serif;
 	font-weight: bold;
@@ -47,9 +46,9 @@ header p{
 
 #aboutMe img{
 	position: relative;
-	left: 819px;
-	width: 700px;
-	height: 750px;
+	left: 50%;
+	width: 50%;
+	height: 30%;
 }
 
 #Projects{
@@ -140,4 +139,21 @@ header p{
 	position: relative;
 	left: 400px;
 	top: 150px;
+}
+
+@media(max-width: 640px){
+	body{
+		text-align: center;
+	}
+}
+
+@media(max-width: 823px){
+	#aboutMe h1{
+		left: 10%;
+		top: 6%;
+	}
+	#aboutMe p{
+		left: 10%;
+		top: 6%;
+	}
 }
